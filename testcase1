@@ -1,0 +1,5 @@
+class Testcase
+{
+  System.out.println("Hello");
+
+}
